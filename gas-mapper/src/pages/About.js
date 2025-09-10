@@ -30,6 +30,7 @@ export default function About() {
                 <ul className="list-disc list-inside">
                     <li>React</li>
                     <li>React Router</li>
+                    <li>React Leaflet</li>
                 </ul>
                 <p>
                     Project Frameworks
